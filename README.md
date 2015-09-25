@@ -25,6 +25,7 @@ In terms of the skills we have available to work on this project, writing for we
 - Built in SSH tunnel support for securing remote access with something other than HTTPS.
 - OCR assistant for digitizing hard copy documents, and associating them with the appropriate transaction.
 - Assistive trial balance
+- Payroll
 
 
 # At some point (maybe) goals/features
