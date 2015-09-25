@@ -16,6 +16,7 @@ In terms of the skills we have available to work on this project, writing for we
 - Automatic backups
 - Optionally encrypted database entries, unlocked with a key file.
 - Transaction tangent tracking
+- Automatic update system
 
 
 # Near future goals/features
