@@ -1,8 +1,15 @@
 # Rationarium
 A cloud based, book keeping and accountancy package, written in PHP.
 
+# Whats a Rationarium?
+Noun - ratiōnārium n ‎(genitive ratiōnāriī); second declension
+
+statistical table, schedule
+account book, ledger
+official account, accounting, summary
+
 # Why?
-In our company we prefer to use open source software. However the accountancy packages that are currently available leave a lot to be desired for the professional book keeper. I guess we could just use spreadsheets, but how depressing is that?
+In our company we prefer to use open source software. However the accountancy packages that are currently available leave a lot to be desired for the professional book keeper.
 
 # Why cloud?
 In terms of the skills we have available to work on this project, writing for web will enable us to turn it around a lot faster. We also require the finished product to be able to handle multiple book keepers, working on the same books at the same time.
