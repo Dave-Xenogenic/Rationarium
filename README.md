@@ -3,7 +3,6 @@ A cloud based, book keeping and accountancy package, written in PHP.
 
 # Whats a Rationarium?
 Noun - ratiōnārium n ‎(genitive ratiōnāriī); second declension
-
 statistical table, schedule
 account book, ledger
 official account, accounting, summary
