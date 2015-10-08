@@ -14,7 +14,7 @@ $password = mysql_real_escape_string($password);
 
 $dbSelect = mysqli_select_db($dbConnect, 'rationarium');
 
-$findUser = mysqli_query($dbConnect, "SELECT * FROM users WHERE username='$username'");
+$findUser = mysqli_query($dbConnect, "SELECT userid, username, password FROM users WHERE username='$username'");
 
 $row = mysqli_fetch_array($findUser);
 
